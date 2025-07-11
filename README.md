@@ -66,7 +66,7 @@ laptops-scraping/
 
 ## 👥 Integrantes
 
-- **Ramos Freddy** – Código de extracción y visualización  
+- **Ramos Freddy** – GitHub: [20230408](https://github.com/20230408)
 - **López Victor** – Documentación y estructuración de datos  
 (GitHub: [VictorLopez281199](https://github.com/VictorLopez281199))
 
